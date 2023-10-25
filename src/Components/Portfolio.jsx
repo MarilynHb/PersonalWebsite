@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/devfest.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Devfest GDG Coast Lebanon 2023 - I was a speaker where I shared my experience being a GDSC Lead";
 
 /**
  * Project list
