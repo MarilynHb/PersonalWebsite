@@ -37,7 +37,7 @@ const description = [
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["Web design", "User experience", "Inclusive design", "Focus group testing"];
+const skillsList = ["Leadership", "Community Building", "Critical Thinking", "Problem Solving"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -91,11 +91,11 @@ const About = () => (
       <hr />
       <p style={{ padding: "1rem 3rem 0" }}>{detail}</p>
       <center>
-        <p style={{ width: "50%" }}>
+        <p style={{ width: "60%" }}>
           <b>{quote}</b>
         </p>
       </center>
-      <p style={{ padding: "1rem 3rem 0" }}>{author}</p>
+      <p>{author}</p>
     </div>
   </section>
 );
